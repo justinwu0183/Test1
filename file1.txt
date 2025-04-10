@@ -1,0 +1,7 @@
+this is a basic text file
+
+Lets start a list:
+
+Red
+Orange...
+
