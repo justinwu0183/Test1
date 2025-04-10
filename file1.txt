@@ -1,6 +1,6 @@
 this is a basic text file
 
-Lets start a list:
+Lets start a list of colors:
 
 Red
 Orange...
